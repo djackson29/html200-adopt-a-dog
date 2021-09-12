@@ -1,8 +1,11 @@
-I tested on a PC laptop, iPhone 11, iPad pro, and Kindle Fire. I also tested on various browsers and the latest two versions: Chrome, Safari, Firefox, Edge
+The adopt a dog website was tested and reviewed for quality assurance on a PC laptop, iPhone 11, iPad pro, and Kindle Fire. I also tested on the latest two versions of various browsers: Chrome, Safari, Firefox, Edge
 
-The website was viewed in 
+The website was also reviewed in mobile, tablet, and desktop screen sizes. 
 
 Please see README.txt file for more information.
+
+_________________________________________________________
+User Personas:
 
 
 Name: Will McLeod
@@ -19,8 +22,9 @@ Other background
 •	Doesn’t know a lot about the various dog breeds so looking for some guidance about which breeds could keep up with his adventurous lifestyle
 •	Had a family dog but has never owned a dog on his own, needs tips for being a good dog owner
 •	Lives in a one-bedroom apartment alone
- 
 
+ 
+_________________________________________________________
 Name: Shelly Jackson
 Age: 32
 Software Engineer
@@ -37,6 +41,7 @@ Other background
 •	lives alone in a small two-bedroom apartment
 
 
+_________________________________________________________
 Name: Kit Wilson
 Age: 21
 College Student
