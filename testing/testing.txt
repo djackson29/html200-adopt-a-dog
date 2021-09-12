@@ -1,0 +1,54 @@
+I tested on a PC laptop, iPhone 11, iPad pro, and Kindle Fire. I also tested on various browsers and the latest two versions: Chrome, Safari, Firefox, Edge
+
+The website was viewed in 
+
+Please see README.txt file for more information.
+
+
+Name: Will McLeod
+Age: 27
+High school teacher
+Activities: camping, boating, hiking
+Device Preferences
+•	Uses a mobile device primarily, sometimes a PC
+•	iPhone X and 3-year-old PC laptop
+Technology Habits
+•	Usually has spotty service on phone so quick page load times are needed
+Other background
+•	Looking for a dog that he can take along on outdoor adventures
+•	Doesn’t know a lot about the various dog breeds so looking for some guidance about which breeds could keep up with his adventurous lifestyle
+•	Had a family dog but has never owned a dog on his own, needs tips for being a good dog owner
+•	Lives in a one-bedroom apartment alone
+ 
+
+Name: Shelly Jackson
+Age: 32
+Software Engineer
+Activities: reading, walking to local cafes/shops, watching documentaries on Netflix
+Device Preferences
+•	Uses a PC primarily, sometimes a mobile device
+•	1 year old PC and Samsung Galaxy
+Technology Habits
+•	typically, at home or somewhere with good wi-fi
+Other background
+•	has owned a dog before
+•	needs recommendations on dog breeds, doesn’t want a high energy dog
+•	looking for a low-key dog companion that can hang out with her at home or on walks
+•	lives alone in a small two-bedroom apartment
+
+
+Name: Kit Wilson
+Age: 21
+College Student
+Activities: attend college classes, bar hopping, hiking
+Device Preferences
+•	Uses a mobile device primarily, sometimes a PC
+•	iPhone 12 and 1-year-old PC laptop
+Technology Habits
+•	primarily uses mobile device for internet browsing and dog research
+•	PC is used mostly for schoolwork
+Other background
+•	has never owned a dog before
+•	needs guidance and tips for being a good dog owner
+•	lives with roommates in a 4-bedroom house near college campus
+•	would like to meet the dogs in person before making a commitment
